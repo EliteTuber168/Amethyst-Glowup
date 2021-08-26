@@ -8,3 +8,5 @@ A betterdiscord theme
 6. drag the theme download into that folder.
 7. close folder and turn on the theme.
 8. enjoy the theme!
+
+If you have any questions add crazyandrew612#0001 on discord.
